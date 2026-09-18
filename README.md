@@ -72,8 +72,7 @@ student-performance-prediction/
 
 1. Clone the repository
 
-git clone https://github.com/praveen-S90/student-performance-prediction.git
-
+git clone https://github.com/Vishnudb2609/Student-Performance-Prediction.git
 2. Open the project
 
 cd student-performance-prediction
@@ -112,9 +111,9 @@ The main objective of this project is to demonstrate how Machine Learning can be
 
 👨‍💻 Author
 
-Praveen Hunashyal
+D B Vishnu
 
-GitHub: "praveen-S90" (https://github.com/praveen-S90)
+GitHub: https://github.com/Vishnudb2609
 
 ## Recent Project Modifications
 
