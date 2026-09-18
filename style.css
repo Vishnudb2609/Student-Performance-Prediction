@@ -1,0 +1,51 @@
+/* Main page */
+.main {
+    background-color: #f5f7fb;
+}
+
+/* Main title */
+h1 {
+    font-size: 38px;
+    font-weight: 700;
+}
+
+/* Subheaders */
+h2, h3 {
+    font-weight: 600;
+}
+
+/* Buttons */
+.stButton > button {
+    width: 100%;
+    border-radius: 10px;
+    padding: 10px 20px;
+    font-weight: 600;
+}
+
+/* Input boxes */
+.stNumberInput input {
+    border-radius: 8px;
+}
+
+/* Select boxes */
+.stSelectbox {
+    border-radius: 8px;
+}
+
+/* Metrics */
+[data-testid="stMetric"] {
+    padding: 15px;
+    border-radius: 12px;
+    background-color: white;
+}
+
+/* Data table */
+[data-testid="stDataFrame"] {
+    border-radius: 10px;
+}
+
+/* Horizontal line */
+hr {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
